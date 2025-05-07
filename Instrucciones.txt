@@ -2,3 +2,4 @@ git init
 git config user.name JoseGuty020
 git config user.email josebaselkoala@gmail.com
 Darle al git hub y crear dos archivos index.html y instrucciones.txt
+si lo has echo muy guapo pues tienes que abrirlo
